@@ -5,6 +5,7 @@ RENCANA KONTEN TUGAS
 * Framwork Javascript
     -Vue
     -React
+    -Angular
 -Struktur Data Dasar
 - PHP Framworks
     -laravel
