@@ -3,6 +3,7 @@ RENCANA KONTEN TUGAS
 - Javascript
 * ES6
 * Framwork Javascript
+-Struktur Data Dasar
 - PHP Framworks
 - Iterview
 = vlog
