@@ -1,0 +1,8 @@
+RENCANA KONTEN TUGAS
+
+- Javascript
+* ES6
+* Framwork Javascript
+- PHP Framworks
+- Iterview
+= vlog
